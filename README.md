@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ryan Crowder!
   - I own a small indie development company - Horizen Interactive
   - I am currently working on an open source project in the GODOT Game Engine called Arcane Networking
-    https://github.com/RJCDev/arcane-networking-csharp
+    - https://github.com/RJCDev/arcane-networking-csharp
 
   - And currently have 3 Games to my name:
-     Welcome To The Backrooms https://store.steampowered.com/app/2007010/Welcome_To_The_Backrooms/
-     Arcane Arena (Currently In Development)
-     OSO (Currently In Development, Demo Released) https://store.steampowered.com/app/4101020/OSO_Demo/
+     - Welcome To The Backrooms https://store.steampowered.com/app/2007010/Welcome_To_The_Backrooms/
+     - Arcane Arena (Currently In Development)
+     - OSO (Currently In Development, Demo Released) https://store.steampowered.com/app/4101020/OSO_Demo/
 
   - And I am currently also working on an in house engine written entirely in C++.
   
