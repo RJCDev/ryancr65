@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ryan Crowder!
-  - I own a small indie development company - Horizen Interactive
   - I am currently working on an open source project in the GODOT Game Engine called Arcane Networking
     - https://github.com/RJCDev/arcane-networking-csharp
 
